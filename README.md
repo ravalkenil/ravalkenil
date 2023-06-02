@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm kenil raval</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
+<i>If you're passionate about blockchain technology and interested in building decentralized applications, smart contracts, or exploring the potential of distributed ledger systems, you've come to the right place. This repository is dedicated to sharing my knowledge, projects, and resources related to blockchain development.
 
+As a blockchain developer, I believe in the power of this transformative technology to revolutionize various industries and reshape the way we interact with digital assets, data, and trust. I'm constantly exploring and experimenting with different blockchain platforms, protocols, and tools to stay at the forefront of this rapidly evolving ecosystem.</i>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravalkenil&label=Profile%20views&color=0e75b6&style=flat" alt="ravalkenil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@kenil_raval" target="blank"><img src="https://img.shields.io/twitter/follow/@kenil_raval?logo=twitter&style=for-the-badge" alt="@kenil_raval" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kenil_raval" target="blank"><img src="https://img.shields.io/twitter/follow/kenil_raval?logo=twitter&style=for-the-badge" alt="kenil_raval" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://kenil_portfolio.dorik.io/](https://kenil_portfolio.dorik.io/)
 
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@kenil_raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kenil_raval" height="30" width="40" /></a>
+<a href="https://twitter.com/kenil_raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenil_raval" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kenilraval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenilraval" height="30" width="40" /></a>
 </p>
 
